@@ -1,0 +1,9 @@
+import AdminPage from "@/components/admin/AdminPage";
+
+export default function AdminDashboardStoryboard() {
+  return (
+    <div className="bg-white min-h-screen">
+      <AdminPage />
+    </div>
+  );
+}
